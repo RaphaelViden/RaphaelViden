@@ -1,6 +1,11 @@
 # Hi there 👋, I'm Raphael Viden!
 
 ✨ Welcome to my GitHub profile!
+### 🎉 Fun Animation
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+</p>
+
 
 ---
 
@@ -40,7 +45,4 @@
 
 ---
 
-### 🎉 Fun Animation
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
-</p>
+
