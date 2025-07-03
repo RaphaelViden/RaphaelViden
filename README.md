@@ -3,7 +3,7 @@
 ✨ Welcome to my GitHub profile!
 ### 🎉 Fun Animation
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="800" />
 </p>
 
 
